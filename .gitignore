@@ -67,3 +67,10 @@ Desktop.ini
 *.tmp
 *.temp
 *.swp 
+# PyInstaller build specs and executables
+*.spec
+*.exe
+
+# Output files
+receipts_*.csv
+/log/ 
